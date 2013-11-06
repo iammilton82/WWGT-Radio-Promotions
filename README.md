@@ -3,7 +3,7 @@ Worldwide Group Travel Radio Promotions
 
 Below are the design requirements for the all radio promotions developed in partnership with Worldwide Group Travel.
 
-Each promotions requires the design of 3 images.
+Each promotion requires the design of 3 images.
 
 - psd-template.psd: the main design file that is displayed in the iframe.  This layout is the consumer facing design that is presented to potential travelers.
 - psd-mem870x372.psd: a secondary graphic required for the worldwidegrouptravel.com website
